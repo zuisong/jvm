@@ -10,7 +10,7 @@ edition = "2018"
 clap = "2.33.1"
 classfile = { path = "../../crates/classfile", version = "0.1.0" }
 class-parser = { path = "../../crates/class-parser", version = "0.1.0" }
-time = "0.2.16"
+time = "0.2.23"
 env_logger = "0.7.1"
 handlebars = "3.0.1"
 lazy_static = "1.4.0"
